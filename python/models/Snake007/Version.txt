@@ -1,0 +1,2 @@
+11 Inputs immer an den Kugeln Raycasts nach vorne, Sticky surfaces, random parcours
+Macht hinten den Schwanz hoch, aber kann gut nach vorne laufen

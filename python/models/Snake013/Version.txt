@@ -1,0 +1,9 @@
+15 Inputs an der vordersten Kugel raycast nach vorne in (0, -0.2, 1) mit offset (0, 0.1, 0), Sticky surfaces, random parcours
+
+Reward wird nur anhand der vordersten Kugel festgemacht, nicht am Mittel aller
+Kleine Verbindungen dazwischen
+Done() wenn Joints breaken
+
+Netz:
+16 hidden units
+5 num_layers

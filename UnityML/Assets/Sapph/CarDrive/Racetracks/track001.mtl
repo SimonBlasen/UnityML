@@ -1,0 +1,7 @@
+newmtl TarmacWhite
+Kd 1 1 1
+Ks 0.1999999 0.1999999 0.1999999
+map_Kd null
+map_Bump C:\Users\Simon\Downloads\ml-agents-master (1)\ml-agents-master\unity-environment-oldplugin\Assets\Sapph\CarDrive\Racetracks\TarmacNormal.png
+illum 2
+

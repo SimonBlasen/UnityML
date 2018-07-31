@@ -1,0 +1,10 @@
+9 Inputs. An der vordersten Kugel wird die mittlere Normal der Surface geschätzt, Sticky surfaces, random parcours3
+Der letzte Input ist die Differenz der Ground-Surface Y Werte unter der vordersten Kugel und der hintersten
+
+Reward anhand von CPs
+Kleine Verbindungen dazwischen
+Done() wenn Joints breaken
+
+Netz:
+64 hidden units
+2 num_layers

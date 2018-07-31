@@ -1,0 +1,20 @@
+newmtl Default-Material
+Kd 1 1 1
+illum 2
+
+newmtl Beton_1
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl CrossoverRegion
+Kd 1 1 1
+map_Kd C:\Users\Simon\Downloads\ml-agents-master (1)\ml-agents-master\unity-environment-oldplugin\Assets\Sapph\CarDrive\Racetracks\grass.png
+map_Bump null
+illum 2
+
+newmtl Curbs
+Kd 1 1 1
+map_Kd null
+illum 2
+

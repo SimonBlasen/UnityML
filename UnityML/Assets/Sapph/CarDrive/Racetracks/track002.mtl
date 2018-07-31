@@ -1,0 +1,27 @@
+newmtl CrossoverRegion
+Kd 1 1 1
+map_Kd C:\Users\Simon\Downloads\ml-agents-master (1)\ml-agents-master\unity-environment-oldplugin\Assets\Sapph\CarDrive\Racetracks\grass.png
+map_Bump C:\Users\Simon\Downloads\ml-agents-master (1)\ml-agents-master\unity-environment-oldplugin\Assets\Sapph\CarDrive\Racetracks\DirtNormal.png
+illum 2
+
+newmtl Default-Material
+Kd 1 1 1
+illum 2
+
+newmtl Beton_1
+Kd 1 1 1
+map_Kd C:\Users\Simon\Downloads\ml-agents-master (1)\ml-agents-master\unity-environment-oldplugin\Assets\Sapph\CarDrive\Racetracks\beton_1.png
+illum 2
+
+newmtl Curbs
+Kd 1 1 1
+map_Kd C:\Users\Simon\Downloads\ml-agents-master (1)\ml-agents-master\unity-environment-oldplugin\Assets\Sapph\CarDrive\Racetracks\curbs.png
+illum 2
+
+newmtl TarmacWhite
+Kd 1 1 1
+Ks 0.1999999 0.1999999 0.1999999
+map_Kd C:\Users\Simon\Downloads\ml-agents-master (1)\ml-agents-master\unity-environment-oldplugin\Assets\Sapph\CarDrive\Racetracks\TarmacAlbedoWhite.png
+map_Bump C:\Users\Simon\Downloads\ml-agents-master (1)\ml-agents-master\unity-environment-oldplugin\Assets\Sapph\CarDrive\Racetracks\TarmacNormal.png
+illum 2
+
