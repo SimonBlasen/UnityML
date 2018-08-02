@@ -1,472 +1,2142 @@
-31.07.2018 20:49:05
+01.08.2018 10:11:32
  
 Log
 Name[0]: Snake
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[1]: Sphere
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[2]: Cube
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[3]: Sphere (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[4]: Cube (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[5]: Sphere (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[6]: Cube (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[7]: Sphere (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[8]: Cube (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[9]: Sphere (4)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[0]: Snake
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[1]: Sphere
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[2]: Cube
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[3]: Sphere (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[4]: Cube (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[5]: Sphere (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[6]: Cube (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[7]: Sphere (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[8]: Cube (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[9]: Sphere (4)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[0]: Snake
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[1]: Sphere
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[2]: Cube
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[3]: Sphere (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[4]: Cube (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[5]: Sphere (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[6]: Cube (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[7]: Sphere (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[8]: Cube (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[9]: Sphere (4)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[0]: Snake
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[1]: Sphere
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[2]: Cube
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[3]: Sphere (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[4]: Cube (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[5]: Sphere (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[6]: Cube (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[7]: Sphere (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[8]: Cube (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[9]: Sphere (4)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[0]: Snake
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[1]: Sphere
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[2]: Cube
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[3]: Sphere (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[4]: Cube (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[5]: Sphere (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[6]: Cube (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[7]: Sphere (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[8]: Cube (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[9]: Sphere (4)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[0]: Snake
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[1]: Sphere
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[2]: Cube
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[3]: Sphere (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[4]: Cube (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[5]: Sphere (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[6]: Cube (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[7]: Sphere (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[8]: Cube (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[9]: Sphere (4)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[0]: Snake
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[1]: Sphere
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[2]: Cube
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[3]: Sphere (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[4]: Cube (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[5]: Sphere (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[6]: Cube (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[7]: Sphere (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[8]: Cube (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[9]: Sphere (4)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[0]: Snake
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[1]: Sphere
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[2]: Cube
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[3]: Sphere (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[4]: Cube (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[5]: Sphere (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[6]: Cube (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[7]: Sphere (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[8]: Cube (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[9]: Sphere (4)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[0]: Snake
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[1]: Sphere
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[2]: Cube
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[3]: Sphere (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[4]: Cube (1)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[5]: Sphere (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[6]: Cube (2)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[7]: Sphere (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[8]: Cube (3)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Name[9]: Sphere (4)
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:57)
+SnakeAgentSmart:Start() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:62)
 
 Log
 Flipped
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:118)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
 
 Log
 Flipped
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:118)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
 
 Log
 Flipped
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:118)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
 
 Log
 Flipped
 UnityEngine.Debug:Log(Object)
-SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:118)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
+
+Log
+Flipped
+UnityEngine.Debug:Log(Object)
+SnakeAgentSmart:Update() (at D:/Dokumente/SVN/Git/UnityML/UnityML/Assets/Sapph/Snake/SnakeAgentSmart.cs:123)
 

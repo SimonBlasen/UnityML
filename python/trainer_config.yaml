@@ -5,14 +5,14 @@ default:
     buffer_size: 10240
     epsilon: 0.2
     gamma: 0.99
-    hidden_units: 12
+    hidden_units: 64
     lambd: 0.95
     learning_rate: 6.0e-3
     max_steps: 5.0e8
     memory_size: 256
     normalize: false
     num_epoch: 3
-    num_layers: 5
+    num_layers: 2
     time_horizon: 64
     sequence_length: 64
     summary_freq: 1000
