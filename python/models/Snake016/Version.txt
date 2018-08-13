@@ -8,3 +8,7 @@ Done() wenn Joints breaken
 Netz:
 64 hidden units
 2 num_layers
+
+
+
+Tut richtig gut

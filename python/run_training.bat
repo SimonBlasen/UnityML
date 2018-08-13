@@ -1,1 +1,1 @@
-python learn.py "../UnityML/Builds/Snake_External/Snake_External.exe" --run-id=Snake018 --train
+python learn.py "../UnityML/Builds/CarDriveImitate_External/CarDriveImitate_External.exe" --run-id=CarDriveImitate_001 --train
